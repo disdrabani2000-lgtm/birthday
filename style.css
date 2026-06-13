@@ -1,0 +1,41 @@
+h1{
+    font-style: italic;
+    color: deeppink;
+    text-align: center;
+}
+.heart{
+    text-align:center;
+    font-size: 60px;
+    width: 150px;
+    height: 38px;
+    margin: auto;
+    color: gold;
+}
+.img{
+    text-align:center;
+}
+.belive{
+    text-align: center;
+    color: rgb(3, 37, 50);
+    background-color: white;
+}
+h2{
+    text-align: center;
+    font-display: inherit;
+    color: rgb(237, 76, 156);
+}
+.name{
+    color: deeppink;
+
+}
+.date{
+    color-scheme:calc();
+    color: deeppink;
+}
+*{
+    background-image:url("https://tse4.mm.bing.net/th/id/OIP.v4iOeTOYafp0f3Fx-YX1vgHaDe?pid=Api&P=0&h=180")  ;
+    background-size: cover;
+    background-position: center;
+
+    
+}
